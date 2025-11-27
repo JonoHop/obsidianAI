@@ -1,0 +1,9 @@
+{
+  "name": "Obsidian AI Plugin",
+  "version": "1.0.0",
+  "description": "An Obsidian plugin that uses AI to summarize notes, transcribe meetings, and classify topics.",
+  "author": "Obsidian AI",
+  "main": "main.ts",
+  "minAppVersion": "0.9.7",
+  "isDesktopOnly": true
+}
